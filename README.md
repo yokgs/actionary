@@ -1,2 +1,3 @@
-# actionary
-Actionary helps devs like you to create and manage word tokens dictionaries.
+# Actionary
+
+Actionary helps devs like you to create and manage their dictionaries (word tokenization).
